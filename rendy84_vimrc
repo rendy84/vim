@@ -6,3 +6,8 @@ filetype plugin indent on
 set tabstop=4
 set shiftwidth=4
 "set expandtab
+
+map > :tabn<CR>
+map < :tabp<CR>
+
+set number
